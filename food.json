@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Veg Pizza",
+    "price": 10.99,
+    "rating": 4.5,
+    "image": "assets/pizza.jpg"
+  },
+  {
+    "name": "Veg Burger",
+    "price": 5.99,
+    "rating": 4.0,
+    "image": "assets/burger.jpg"
+  },
+  {
+    "name": "Chocolate Ice Cream Shake",
+    "price": 12.99,
+    "rating": 4.8,
+    "image": "assets/shake.jpg"
+  },
+  {
+    "name": "Vanilla Cupcake",
+    "price": 2.99,
+    "rating": 5.0,
+    "image": "assets/cupcake.jpg"
+  }
+]
