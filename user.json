@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sam23",
+    "password": "password",
+    "image": "assets/s.png"
+  },
+  {
+    "name": "Ara",
+    "password": "pass123",
+    "image": "assets/ara.png"
+  },
+  {
+    "name": "Sam",
+    "password": "pass",
+    "image": "assets/sam.png"
+  }
+]
